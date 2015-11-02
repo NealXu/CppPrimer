@@ -12,3 +12,9 @@ export CP_SRC_01_01_01 = $(CP_CODE)/01/01_01_01/source
 
 export CP_INC_01_02_02 = $(CP_CODE)/01/01_02_02/include
 export CP_SRC_01_02_02 = $(CP_CODE)/01/01_02_02/source
+
+export CP_INC_01_06_03 = $(CP_CODE)/01/01_06_03/include
+export CP_SRC_01_06_03 = $(CP_CODE)/01/01_06_03/source
+
+export CP_INC_01_06_04 = $(CP_CODE)/01/01_06_04/include
+export CP_SRC_01_06_04 = $(CP_CODE)/01/01_06_04/source
